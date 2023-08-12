@@ -1,0 +1,25 @@
+/* Currency.css */
+
+.currency-dropdown {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    padding: 5px;
+    color: white;
+    background-color:rgb(113, 239, 109);
+  }
+  
+  .currency-dropdown label {
+    margin-right: 5px;
+    font-weight: bold;
+    background-color:rgb(113, 239, 109);
+  }
+  
+  .currency-dropdown select {
+    padding: 5px;
+    background-color:rgb(113, 239, 109);
+    border: 1px solid rgb(57, 245, 50);
+    border-radius: 3px;
+    font-size: 14px;
+  }
+  
